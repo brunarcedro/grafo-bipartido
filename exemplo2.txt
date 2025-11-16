@@ -1,0 +1,9 @@
+# Arquivo de exemplo 2: Grafo NÃO Bipartido
+# Formato: USUARIO,FILME
+# Este exemplo mostra um grafo que NÃO é bipartido
+# Contém um ciclo ímpar (triângulo) que viola a propriedade bipartida
+
+# Ciclo ímpar: A-B-C-A (3 vértices)
+A,B
+B,C
+C,A

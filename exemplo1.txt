@@ -1,0 +1,17 @@
+# Arquivo de exemplo 1: Grafo Bipartido Válido
+# Formato: USUARIO,FILME
+# Este exemplo mostra um grafo que É bipartido
+
+# Usuários e seus filmes assistidos
+Alice,Matrix
+Alice,Inception
+Alice,Interstellar
+Bob,Matrix
+Bob,Avatar
+Bob,Titanic
+Carlos,Inception
+Carlos,Avatar
+Diana,Interstellar
+Diana,Titanic
+Eduardo,Matrix
+Eduardo,Inception

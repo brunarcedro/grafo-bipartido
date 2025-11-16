@@ -1,0 +1,42 @@
+# Arquivo de exemplo 3: Sistema de Recomendação Expandido
+# Formato: USUARIO,FILME
+# Grafo bipartido maior para demonstração do sistema de recomendação
+
+# Fãs de Ficção Científica
+Alice,Matrix
+Alice,Inception
+Alice,Interstellar
+Alice,BladeRunner
+Bob,Matrix
+Bob,Inception
+Bob,Alien
+
+# Fãs de Ação
+Carlos,FastFurious
+Carlos,MissionImpossible
+Carlos,JohnWick
+Diana,FastFurious
+Diana,JohnWick
+Diana,Matrix
+
+# Fãs de Drama
+Eduardo,ForrestGump
+Eduardo,Titanic
+Eduardo,ShawshankRedemption
+Fernanda,ForrestGump
+Fernanda,TheGodfather
+Fernanda,Titanic
+
+# Usuários com gostos diversos
+Gabriel,Matrix
+Gabriel,JohnWick
+Gabriel,ForrestGump
+Helena,Inception
+Helena,Titanic
+Helena,MissionImpossible
+
+# Novos usuários
+Igor,Alien
+Igor,BladeRunner
+Julia,TheGodfather
+Julia,ShawshankRedemption
